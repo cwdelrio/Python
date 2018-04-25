@@ -1,5 +1,5 @@
 ﻿# Python Projects
-A collection of projects for learning python 3.6. Mild to wild.
+A collection of projects for learning python 3.6.
 
 ## Python Decimal to Binary Converter  |  decimal_to_binary.py
 This program is written to be run in command line. It takes the argument from argv not prompt. 
