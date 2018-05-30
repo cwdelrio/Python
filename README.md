@@ -13,3 +13,7 @@ This is a very simple program created solely to play with argv.
 This is a simple program written to draw a rainbow using the turtle graphics library.
 This is a static representation of the problem proposed. Dynamic sizing will be written
 in at a later date. 
+
+## Tkinter Calculator | calculator.py
+This is a calculator GUI I created using the Tkinter library for the #100daysofcode challenge
+I started with a tutorial cited in the code on 05/30/2018.
